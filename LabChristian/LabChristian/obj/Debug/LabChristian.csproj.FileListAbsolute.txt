@@ -6,3 +6,11 @@ C:\Users\ALUMNO\source\repos\LabChristian\LabChristian\obj\Debug\LabChristian.cs
 C:\Users\ALUMNO\source\repos\LabChristian\LabChristian\obj\Debug\LabChristian.csproj.CoreCompileInputs.cache
 C:\Users\ALUMNO\source\repos\LabChristian\LabChristian\obj\Debug\LabChristian.exe
 C:\Users\ALUMNO\source\repos\LabChristian\LabChristian\obj\Debug\LabChristian.pdb
+C:\Users\USUARIO\Documents\GitHub\LB1-Progra-lll\LabChristian\LabChristian\bin\Debug\LabChristian.exe.config
+C:\Users\USUARIO\Documents\GitHub\LB1-Progra-lll\LabChristian\LabChristian\bin\Debug\LabChristian.exe
+C:\Users\USUARIO\Documents\GitHub\LB1-Progra-lll\LabChristian\LabChristian\bin\Debug\LabChristian.pdb
+C:\Users\USUARIO\Documents\GitHub\LB1-Progra-lll\LabChristian\LabChristian\obj\Debug\LabChristian.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Documents\GitHub\LB1-Progra-lll\LabChristian\LabChristian\obj\Debug\LabChristian.csproj.SuggestedBindingRedirects.cache
+C:\Users\USUARIO\Documents\GitHub\LB1-Progra-lll\LabChristian\LabChristian\obj\Debug\LabChristian.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Documents\GitHub\LB1-Progra-lll\LabChristian\LabChristian\obj\Debug\LabChristian.exe
+C:\Users\USUARIO\Documents\GitHub\LB1-Progra-lll\LabChristian\LabChristian\obj\Debug\LabChristian.pdb
